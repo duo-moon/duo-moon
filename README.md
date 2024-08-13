@@ -4,7 +4,7 @@
 
 ## hey there 👋
 
-I am a software engineer from St. Petersburg (Russia).
+I’m a Software Engineer from St. Petersburg (Russia).
 - I’m currently working as a Python developer and create services for postprocessing payment data.
 - I’m interested in MLOps and development of ML services.
 - :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/filipp-brazhnikov-794b5a210/)
