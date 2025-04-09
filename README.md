@@ -1,13 +1,9 @@
 ## hey there 👋
 
-I’m a Software Engineer from St. Petersburg (Russia).
-- I’m currently working as a Python developer.
-- I’m interested in MLOps and development of ML services.
-- :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/filipp-brazhnikov-794b5a210/)
+I'm a **Software Engineer** from St. Petersburg, Russia.  
+I work at the intersection of **Backend**, **Data Engineering**, and **MLOps**.
 
-<div id="header" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" alt="helm" width="40" height="40"/>&nbsp;
-</div>
+- 🔧 Currently working as a Python developer, building internal data platforms and ML services
+- ⚙️ Interested in MLOps, applied ML, and open-source infrastructure  
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/filipp-brazhnikov-794b5a210/)
+
